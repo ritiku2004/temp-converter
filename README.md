@@ -4,7 +4,7 @@ An elegant, user-friendly temperature converter built with **HTML**, **Tailwind 
 
 ## 🚀 Live Demo
 
-[![🌐 View Deployment](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge)](https://github.com/ritiku2004/temp-converter)
+[![🌐 View Deployment](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge)](https://ritiku2004.github.io/temp-converter/)
 
 ## ✨ Features
 
